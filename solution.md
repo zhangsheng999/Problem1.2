@@ -13,7 +13,7 @@
     然后我们设时间t和位置x为变量 取初始值x0=0 t0=0
     
     
-    运用Euler method input dt和time
+    运用Euler method 然后input dt和time
     
     得到x与t的函数图象
      
