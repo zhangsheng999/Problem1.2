@@ -17,8 +17,11 @@
     
     得到x与t的函数图象
      
-    ## 情况1 令 dt=0.5 time=20
-    ### [图像1](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_1.png)
-    ## 情况2 令 dt=0.1 time=20
-    ### [图像2](https://github.com/zhangsheng999/1111/blob/master/Figure_2.png)
+     情况1 令 dt=0.5 time=20
+    
+    [图像1](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_1.png)
+    
+    情况2 令 dt=0.1 time=20
+
+    [图像2](https://github.com/zhangsheng999/1111/blob/master/Figure_2.png?raw=true)
                        
