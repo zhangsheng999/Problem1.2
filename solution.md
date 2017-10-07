@@ -16,6 +16,6 @@
     运用Euler method input dt和time
     
     得到x与t的函数图象
-    
-    ##情况1 dt=0.5 time=20
+   
+    ![cmd-markdown-logo](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_1.png)
                        
