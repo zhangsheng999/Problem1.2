@@ -21,5 +21,5 @@
     
      
      
-     情况2 令 dt=0.1 time=20 得到[图像2](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_2.png)
+     情况2 令 dt=0.1 time=20 得到[图像2](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_2.png)
                        
