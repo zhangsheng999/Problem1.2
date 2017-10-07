@@ -19,9 +19,10 @@
      
      情况1 令 dt=0.5 time=20
     
-    [图像1](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_1.png)
+     得到[图像1](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_1.png)
     
-    情况2 令 dt=0.1 time=20
+     
+     情况2 令 dt=0.1 time=20
 
-     [图像2](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_2.png)
+     得到[图像2](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_2.png)
                        
