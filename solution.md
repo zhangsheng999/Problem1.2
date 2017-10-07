@@ -21,5 +21,11 @@
     
      
      
-      情况2 令 dt=0.1 time=20 得到[图像2](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_2.png)
+     情况2 令 dt=0.1 time=20 得到[图像2](https://raw.githubusercontent.com/zhangsheng999/1111/master/Figure_2.png)
+     
+     由以上两个图像显然可以得到 X=40t
+     
+     
+     
+     [代码](https://github.com/zhangsheng999/1111/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3%20(6).txt)
                        
